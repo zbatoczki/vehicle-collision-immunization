@@ -1,0 +1,9 @@
+{
+    "name": "vehicle-collision-immunization",
+    "version": "0.1.0",
+    "title": "Vehicle Collision Immunization",
+    "author": "ZB",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod prevents collision damage between the player's vehicle and the non-enemy entity they collided with."
+  }
